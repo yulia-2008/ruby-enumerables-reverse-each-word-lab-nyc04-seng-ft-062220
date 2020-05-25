@@ -6,3 +6,4 @@ string.each do |n|
 end 
 puts new_string
 end
+reverse_each_word("Hello, moma")
