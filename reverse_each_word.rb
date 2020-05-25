@@ -16,4 +16,3 @@ def reverse_collect_word(string)
 end 
 array.join(" ")
 end 
-reverse_collect_word("Hi, mom") 
