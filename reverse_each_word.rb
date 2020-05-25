@@ -11,5 +11,5 @@ reverse_each_word("Hello, moma")
 
 
 x=" Hi, mom"
-x.split!(//)
+x.split(//)
 puts x
