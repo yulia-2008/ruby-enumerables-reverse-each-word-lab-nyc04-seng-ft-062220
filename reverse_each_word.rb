@@ -5,7 +5,7 @@ array.each do |n|
   n.reverse!
   new_string << n + " "
 end 
-puts new_string 
+ new_string 
 end
 
 
