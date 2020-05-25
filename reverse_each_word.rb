@@ -16,4 +16,4 @@ def reverse_collect_word(string)
 end 
 n
 end 
-string=" Hi, mom"
+reverse_collect_word("Hi, mom") 
