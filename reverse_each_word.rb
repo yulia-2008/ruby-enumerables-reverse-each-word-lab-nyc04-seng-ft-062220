@@ -1,11 +1,11 @@
 def reverse_each_word(string)
 array=string.split(/ /)
-new_string=""
+new_array
 array.each do |n|
   n.reverse!
-  new_string << n 
+  new_array << n 
 end 
- new_string 
+ new_array.join(" ") 
 end
 
 
