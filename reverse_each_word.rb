@@ -14,6 +14,6 @@ def reverse_collect_word(string)
   array.collect do |n|
     n.reverse!
 end 
-array.to_s
+array.join(" ")
 end 
 reverse_collect_word("Hi, mom") 
