@@ -15,3 +15,5 @@ def reverse_collect_word(string)
     n.reverse!
 end 
 n
+end 
+string=" Hi, mom"
